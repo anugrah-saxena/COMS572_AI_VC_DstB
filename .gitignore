@@ -1,0 +1,22 @@
+# Dest
+build/
+dist/
+out/
+
+# log files:
+*.log
+
+# idea files
+.idea
+
+*.iml
+
+# eclipse:
+.classpath
+.project
+.settings/
+bin/
+*.DS_Store
+
+# custom:
+performance-log.txt
