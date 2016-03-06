@@ -1,3 +1,10 @@
 # COMS572_AI_VC_DstB
+A Multi-Agent House-Cleaning Environment: Smart Vacuum Cleaner and Smart Dustbin.
 
-Go through ComS572_term_project_VC.DstB.pdf (Report) file to view detailed description of the project.
+[Project Report] Go through "ComS572_term_project_VC.DstB.pdf" file to view detailed description of the project.
+
+Team: Alexey Markin, Anugrah Saxena, Xinxin Yang.
+
+Course: Artificial Intelligence (Fall 2015, Iowa State University).
+
+Professor: Jin Tian.
